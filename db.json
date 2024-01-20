@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Harold Strosin",
+      "id": 4
+    },
+    {
+      "name": "Tonya Collins",
+      "id": 5
+    },
+    {
+      "name": "Pam O'Hara",
+      "id": 6
+    },
+    {
+      "name": "Barry Kris",
+      "id": 7
+    },
+    {
+      "name": "Emmett Stroman",
+      "id": 8
+    }
+  ],
+  "albums": [
+    {
+      "id": 10,
+      "title": "New Pocahontas",
+      "userId": 1
+    },
+    {
+      "userId": 1,
+      "title": "Electronic Metal Soap",
+      "id": 11
+    },
+    {
+      "userId": 4,
+      "title": "Fantastic Granite Pants",
+      "id": 17
+    },
+    {
+      "userId": 1,
+      "title": "Oriental Frozen Pants",
+      "id": 18
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/640/480?lock=734859857231872",
+      "id": 4
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/640/480?lock=1006168067538944",
+      "id": 5
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/640/480?lock=6232424522448896",
+      "id": 7
+    },
+    {
+      "albumId": 10,
+      "url": "https://picsum.photos/seed/Mj3jkrDhk/640/480",
+      "id": 8
+    }
+  ]
+}
